@@ -8,7 +8,7 @@ AnyChain is tackling simplicity head on. While technically savvy owners can run 
 
 ## Getting Started
 - [Project Introduction](docs/adc-project-introduction.md): What are our core principles & roadmap?
-- [ADC High-Level Design](docs/adc-hld/adc-design-approach.md): What is our High-Level design?
+- [ADC High-Level Design](docs/adc-hld/adc-hl-design.md): What is our High-Level design?
 - [ADC Domains](docs/adc-domains/adc-domains.md): What is our domain structure?
 - [Design Approach](docs/adc-design-approach.md): What is our architectural and design approach?
 - [ADC Differentiators](docs/adc-differentiators/adc-differentiators.md): What are our differentiators?
