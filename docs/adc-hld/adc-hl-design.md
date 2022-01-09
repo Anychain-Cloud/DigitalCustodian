@@ -60,8 +60,7 @@ The AnyChain Safe Deposit Service ( SDS) offers Owners the ability to securely b
 ![alt_text](image4.png "image_tooltip")
 
 
-
-            **Figure 4:  DC UI-ACC-DCI  Interactions**
+**Figure 4:  DC UI-ACC-DCI  Interactions**
 
 
 # ADC Project Roadmap
