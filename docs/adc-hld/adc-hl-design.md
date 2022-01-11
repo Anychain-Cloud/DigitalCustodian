@@ -70,8 +70,8 @@ The ADC project roadmap is built around the 4 stages of ownership maturity as id
 
 
 * **Phase 1**: Personal Ownership is about empowering people to organize, control and manage their personal digital secrets.
-* **Phase 2: ** Community Ownership focuses on building group resources with shared ownership (e.g. multisig wallets).
-* **Phase 3: **Merchant Ownership focuses on monetizing digital assets, physical goods and services.
+* **Phase 2**: Community Ownership focuses on building group resources with shared ownership (e.g. multisig wallets).
+* **Phase 3**: Merchant Ownership focuses on monetizing digital assets, physical goods and services.
 * **Phase 4**: Builder Ownership is where an Owner can build new experiences that are integrated with ACC and deployable by other Owners.
 
 Overall, the ADC roadmap is aligned with adding functionality to assist an Owner in growing their personal economy.
